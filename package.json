@@ -1,0 +1,21 @@
+{
+  "name": "crm-lang",
+  "version": "0.1.0",
+  "description": "CRM Language App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/logisticsplus/crm-lang.git"
+  },
+  "author": "Logistics Plus LLC",
+  "license": "Private",
+  "bugs": {
+    "url": "https://github.com/logisticsplus/crm-lang/issues"
+  }
+}
