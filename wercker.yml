@@ -17,11 +17,6 @@ deploy:
           git config --global user.email "pleasemailus@wercker.com"
           git remote add dokku dokku@80.80.161.86:crm-lang
     - script:
-        name: Add everything to the repository
-        code: |
-          git add .
-          git commit -m "Result of deploy $WERCKER_GIT_COMMIT"
-    - script:
         name: Push to dokku
         code: |
           git push dokku master
