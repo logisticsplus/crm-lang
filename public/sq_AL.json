@@ -2,16 +2,15 @@
   "Dashboard": "Dashboard",
   "Sales": "Sales",
   "Projects": "Projects",
-  "ProjectStatus":"ProjectStatus",
+  "ProjectStatuses":"Project Statuses",
   "ProjectType":"Project Type",
-  "Type":"Type",
+  "Types":"Types",
   "Contacts":"Contacts",
   "Configuration":"Configuration",
-  "Conpany":"Company",
+  "Conpanies":"Companies",
   "Industries":"Industries",
   "Clients":"Clients",
   "Leads":"Leads",
   "Opportunities":"Opportunities",
   "Application":"Aplication"
-
 }
