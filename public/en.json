@@ -12,7 +12,10 @@
   "Clients":"Clients",
   "Leads":"Leads",
   "Opportunities":"Opportunities",
-  "Application":"Aplication"
+  "Application":"Aplication",
+   "Save":"Save",
+  "Cancel":"Cancel",
+  "Name":"Name"
   
 
 }
