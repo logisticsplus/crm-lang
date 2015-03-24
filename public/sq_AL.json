@@ -2,8 +2,8 @@
   "Dashboard": "Dashboard",
   "Sales": "Sales",
   "Projects": "Projects",
-  "ProjectStatus":"ProjectStatus"
-  "ProjectType":"Project Type"
+  "ProjectStatus":"ProjectStatus",
+  "ProjectType":"Project Type",
   "Type":"Type"
 
 }
