@@ -4,6 +4,15 @@
   "Projects":"Projects",
   "ProjectStatus":"ProjectStatus",
   "ProjectType":"Project Type",
-  "Type":"Type"
+  "Type":"Type",
+  "Contacts":"Contacts",
+  "Configuration":"Configuration",
+  "Conpany":"Company",
+  "Industries":"Industries",
+  "Clients":"Clients",
+  "Leads":"Leads",
+  "Opportunities":"Opportunities",
+  "Application":"Aplication"
+  
 
 }
