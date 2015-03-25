@@ -2,7 +2,7 @@
   "Dashboard": "Dashboard",
   "Sales": "Sales",
   "Projects":"Projects",
-  "ProjectStatus":"ProjectStatus",
+  "ProjectStatus":"Project Status",
   "ProjectType":"Project Type",
   "Type":"Type",
   "Contacts":"Contacts",
@@ -16,5 +16,6 @@
   "Save":"Save",
   "Cancel":"Cancel",
   "Name":"Name",
-  "AddNew":"Add New"
+  "AddNew":"Add New",
+  "Actions":"Actions"
 }
