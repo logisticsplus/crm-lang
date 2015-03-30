@@ -19,5 +19,8 @@
   "Name":"Name",
   "AddNew":"Add New",
   "Actions":"Actions",
-  "NoDatas":"No datas"
+  "NoDatas":"No datas",
+  "Milestone":"Milestone",
+  "Progress":"Progress",
+  "Status":"Status"
 }
