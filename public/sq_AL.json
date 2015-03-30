@@ -18,5 +18,8 @@
   "Cancel":"Cancel",
   "Name":"Name",
   "Actions":"Actions",
-  "NoDatas":"No datas"
+  "NoDatas":"No datas",
+  "Milestone":"Milestone",
+  "Progress":"Progress",
+  "Status":"Status"
 }
