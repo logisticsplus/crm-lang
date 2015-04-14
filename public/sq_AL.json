@@ -1,4 +1,10 @@
 {
+    "Directives": {
+        "Table": {
+            "Search": "Search",
+            "Actions": "Actions"
+        }
+    },
 	"AddNewCategory": "Add New Category",
 	"AddNewCountry": "Add New Country",
 	"AddNewSource": "Add New Source",
