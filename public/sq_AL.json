@@ -1,10 +1,10 @@
 {
-    "Directives": {
-        "Table": {
-            "Search": "Search",
-            "Actions": "Actions"
-        }
-    },
+	"Directives": {
+		"Table": {
+			"Search": "Search",
+			"Actions": "Actions"
+		}
+	},
 	"AddNewCategory": "Add New Category",
 	"AddNewCountry": "Add New Country",
 	"AddNewSource": "Add New Source",
@@ -33,6 +33,7 @@
 	"City": "City",
 	"Category": "Category",
 	"Configuration": "Configuration",
+	"Contacts": "Contacts",
 	"Clients": "Clients",
 	"Client": "Client",
 	"ClientCategory": "Client Category",
@@ -42,6 +43,7 @@
 	"Dashboard": "Dashboard",
 	"Description": "Description",
 	"Department": "Department",
+	"Details": "Details",
 	"Email": "Email",
 	"ExpectedCloseDate": "Expected Close Date",
 	"Employees": "Employees",
@@ -49,6 +51,7 @@
 	"FiscalNo": "Fiscal Number",
 	"FirstName": "First Name",
 	"Gender": "Gender",
+	"Home": "Home",
 	"Industry": "Industry",
 	"Industries": "Industries",
 	"Login":"Login",
@@ -86,6 +89,7 @@
 	"Sales": "Sales",
 	"Save": "Save",
 	"SalesStage": "Sales Stage",
+	"SalesStages": "Sales Stages",
 	"Status": "Status",
 	"Street": "Street",
 	"Source": "Source",
