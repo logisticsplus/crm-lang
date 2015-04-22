@@ -102,5 +102,6 @@
 	"TicketStatus": "Ticket Status",
 	"User": "User",
 	"Workflow": "Lead Workflow",
-	"Website": "Website"
+	"Website": "Website",
+	"WrongLoginOrPassword": "Wrong Login or Password"
 }
