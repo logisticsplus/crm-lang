@@ -68,7 +68,7 @@
 	"Mobile": "Mobile",
 	"Name": "Name",
 	"No":"No",
-	"NoDatas": "No datas",
+	"NoData": "No data",
 	"Opportunities": "Opportunities",
 	"Opportunity":"Opportunity",
 	"OpportunityType": "Opportunity Type",
@@ -109,7 +109,7 @@
 	"TicketPriority": "Ticket Priority",
 	"TicketStatus": "Ticket Status",
 	"User": "User",
-	"Workflow": "Lead Workflow",
+	"Workflow": "Workflow",
 	"Website": "Website",
 	"WrongLoginOrPassword": "Wrong Login or Password",
 	"Yes":"Yes"
