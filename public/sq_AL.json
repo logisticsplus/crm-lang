@@ -1,8 +1,8 @@
 {
     "Directives": {
         "Table": {
-            "Search": "Search",
-            "Actions": "Actions"
+            "Search": "Kërko",
+            "Actions": "Aksionet"
         }
     },
 	"Add New Category": "Add New Category",
@@ -73,7 +73,7 @@
 	"Female": "Femër",
 	"Fiscal No": "Nr Fiskal",
 	"First Name": "Emri",
-	"Forgot your password?": "Keni harruar fjalëkalimin?"
+	"Forgot your password?": "Keni harruar fjalëkalimin?",
 	"Gender": "Gjinia",
 	"Home": "Home",
 	"Hours": "Orë",
