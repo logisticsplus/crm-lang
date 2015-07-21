@@ -28,6 +28,7 @@
 	"Active":"Aktiv",
 	"Actions": "Veprimet",
 	"Actual Cost": "Kostoja Aktuale",
+	"Activities": "Aktivitetet,"
 	"Address": "Adresa",
 	"Assign To": "Cakto",
 	"Assigned To": "Ju Caktua",
@@ -225,5 +226,6 @@
 	"Ticket Priority Deleted": "Prioriteti i Tiketes u Fshi",
 	"User Saved": "Përdoruesi u Ruajt",
 	"User Updated": "Përdoruesi u Përditësua",
-	"User Deleted": "Përdoruesi u Fshi"
+	"User Deleted": "Përdoruesi u Fshi",
+	"was created for": "është krijuar për"
 }
