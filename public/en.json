@@ -28,6 +28,7 @@
 	"Active":"Active",
 	"Actions": "Actions",
 	"Actual Cost": "Actual Cost",
+	"Activities": "Activities",
 	"Address": "Address",
 	"Assign To": "Assign To",
 	"Assigned To": "Assigned To",
@@ -225,5 +226,6 @@
 	"Ticket Priority Deleted": "Ticket Priority Deleted",
 	"User Saved": "User Saved",
 	"User Updated": "User Updated",
-	"User Deleted": "User Deleted"
+	"User Deleted": "User Deleted",
+	"was created for": "was created for"
 }
