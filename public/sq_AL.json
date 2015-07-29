@@ -6,7 +6,7 @@
         }
     },
 	"Add New Category": "Add New Category",
-	"Are you sure that you want to delete": "A jeni të sigurt se dëshironi ta fshini",
+	"Are you sure that you want to delete {{ value }}": "A jeni të sigurt se dëshironi ta fshini",
 	"Add New Country": "Add New Country",
 	"Add New Source": "Add New Source",
 	"Add New Status": "Add New Status",
