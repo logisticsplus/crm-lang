@@ -48,6 +48,9 @@
 	"Campaign Name": "Emri i Kampanjes",
 	"Contact Information": "Informacionet e Kontaktit",
 	"Company": "Kompania",
+	"Change Password": "Ndrrysho Fjalëkalimin",
+	"Current Password": "Fjalëkalimi Aktual",
+	"Confirm Password": "Konfirmo Fjalëkalimin"
 	"City": "Qyteti",
 	"Cities": "Qytetet",
 	"Category": "Kategoria",
@@ -106,6 +109,7 @@
 	"Name": "Emri",
 	"No":"Nr",
 	"No Data": "No data",
+	"New Password": "Fjalëkalimi i ri",
 	"Opportunities": "Mundësitë",
 	"Opportunity":"Opportunity",
 	"Opportunity Type": "Tipi i mundësisë",
