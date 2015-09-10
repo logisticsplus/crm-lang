@@ -42,6 +42,7 @@
 	"Calls": "Thirrjet",
 	"Caller": "Thirrësi",
 	"Called": "Telefonuar",
+	"Called From": "Nr Thirrës"
 	"Campaigns": "Kampanjat",
 	"Campaign Details": "Detajet e Kampanjes",
 	"Campaign Name": "Emri i Kampanjes",
@@ -136,6 +137,7 @@
 	"Review and Save": "Rishiko dhe ruaj",
 	"Reciever": "Pranuesi",
 	"Received": "E Pranuara",
+	"Receiving Nr": "Nr Pranues",
 	"Sales": "Shitjet",
 	"Save": "Ruaj",
 	"Serial No":"Nr Serik",
